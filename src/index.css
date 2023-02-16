@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply font-laviossa
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply m-10 lg:m-20 font-semibold;
+  }
+
+  button {
+    @apply border rounded-xl px-7 py-3 transition hover:opacity-90;
+  }
+
+  a {
+    @apply underline underline-offset-4 hover:underline-offset-8 transition;
+  }
+
+  p {
+    @apply tracking-wider;
+  }
+
+  svg {
+    @apply w-48;
+  }
+}
+
+@font-face {
+    font-family: 'Laviossa';
+    src: url(./assets/laviossa-medium.otf);
+}

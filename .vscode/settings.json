@@ -1,0 +1,12 @@
+{
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+  "editor.columnSelection": false,
+  "editor.defaultFormatter": null,
+  "editor.foldingImportsByDefault": true,
+  "editor.folding": true,
+  "css.format.enable": false,
+  "css.format.newlineBetweenRules": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
