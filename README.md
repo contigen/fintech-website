@@ -2,7 +2,7 @@
 
 This project was supposed to clone and mock a few of the [flutterwave's](https://flutterwave.com) website functionalities - a fintech.
 
-Initially, this project was supposed to be a full-stack thing, with a backend developer; we couldn't do it due to unspecific reasons, and now, there's only the homepage of the website.
+Initially, this project was supposed to be a full-stack thing, with a backend developer; we couldn't do it due to unspecific reasons, and now, there's only the homepage of the website, built with React & TailwindCSS.
 
 This was from June 2022.
 
